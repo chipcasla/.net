@@ -1,0 +1,6 @@
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar2\bin\Debug\Lab01.ParaPensar2.exe.config
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar2\bin\Debug\Lab01.ParaPensar2.exe
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar2\bin\Debug\Lab01.ParaPensar2.pdb
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar2\obj\Debug\Lab01.ParaPensar2.csproj.CoreCompileInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar2\obj\Debug\Lab01.ParaPensar2.exe
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar2\obj\Debug\Lab01.ParaPensar2.pdb

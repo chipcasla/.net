@@ -1,0 +1,7 @@
+C:\NET\Unidad02\Capitulo01\Lab01_ParaPensar1\bin\Debug\Lab01_ParaPensar1.exe.config
+C:\NET\Unidad02\Capitulo01\Lab01_ParaPensar1\bin\Debug\Lab01_ParaPensar1.exe
+C:\NET\Unidad02\Capitulo01\Lab01_ParaPensar1\bin\Debug\Lab01_ParaPensar1.pdb
+C:\NET\Unidad02\Capitulo01\Lab01_ParaPensar1\obj\Debug\Lab01_ParaPensar1.csproj.AssemblyReference.cache
+C:\NET\Unidad02\Capitulo01\Lab01_ParaPensar1\obj\Debug\Lab01_ParaPensar1.csproj.CoreCompileInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01_ParaPensar1\obj\Debug\Lab01_ParaPensar1.exe
+C:\NET\Unidad02\Capitulo01\Lab01_ParaPensar1\obj\Debug\Lab01_ParaPensar1.pdb
