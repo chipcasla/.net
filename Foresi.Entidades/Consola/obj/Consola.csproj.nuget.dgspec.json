@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Consola\\Consola.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Consola\\Consola.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Consola\\Consola.csproj",
+        "projectName": "Consola",
+        "projectPath": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Consola\\Consola.csproj",
+        "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Consola\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Datos\\Foresi.Datos.csproj": {
+                "projectPath": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Datos\\Foresi.Datos.csproj"
+              },
+              "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Entidades\\Foresi.Entidades.csproj": {
+                "projectPath": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Entidades\\Foresi.Entidades.csproj"
+              },
+              "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Negocio\\Foresi.Negocio.csproj": {
+                "projectPath": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Negocio\\Foresi.Negocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Datos\\Foresi.Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Datos\\Foresi.Datos.csproj",
+        "projectName": "Foresi.Datos",
+        "projectPath": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Datos\\Foresi.Datos.csproj",
+        "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Entidades\\Foresi.Entidades.csproj": {
+                "projectPath": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Entidades\\Foresi.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Entidades\\Foresi.Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Entidades\\Foresi.Entidades.csproj",
+        "projectName": "Foresi.Entidades",
+        "projectPath": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Entidades\\Foresi.Entidades.csproj",
+        "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Negocio\\Foresi.Negocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Negocio\\Foresi.Negocio.csproj",
+        "projectName": "Foresi.Negocio",
+        "projectPath": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Negocio\\Foresi.Negocio.csproj",
+        "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Negocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Datos\\Foresi.Datos.csproj": {
+                "projectPath": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Datos\\Foresi.Datos.csproj"
+              },
+              "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Entidades\\Foresi.Entidades.csproj": {
+                "projectPath": "C:\\Users\\Windows\\source\\repos\\Foresi.Entidades\\Foresi.Entidades\\Foresi.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

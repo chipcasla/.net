@@ -1,0 +1,12 @@
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Entidades\bin\Debug\net6.0\Foresi.Entidades.deps.json
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Entidades\bin\Debug\net6.0\Foresi.Entidades.dll
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Entidades\bin\Debug\net6.0\Foresi.Entidades.pdb
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Entidades\obj\Debug\net6.0\Foresi.Entidades.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Entidades\obj\Debug\net6.0\Foresi.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Entidades\obj\Debug\net6.0\Foresi.Entidades.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Entidades\obj\Debug\net6.0\Foresi.Entidades.AssemblyInfo.cs
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Entidades\obj\Debug\net6.0\Foresi.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Entidades\obj\Debug\net6.0\Foresi.Entidades.dll
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Entidades\obj\Debug\net6.0\refint\Foresi.Entidades.dll
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Entidades\obj\Debug\net6.0\Foresi.Entidades.pdb
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Entidades\obj\Debug\net6.0\ref\Foresi.Entidades.dll

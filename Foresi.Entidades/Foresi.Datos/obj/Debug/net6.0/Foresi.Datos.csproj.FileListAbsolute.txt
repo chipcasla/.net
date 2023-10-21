@@ -1,0 +1,15 @@
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Datos\bin\Debug\net6.0\Foresi.Datos.deps.json
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Datos\bin\Debug\net6.0\Foresi.Datos.dll
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Datos\bin\Debug\net6.0\Foresi.Datos.pdb
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Datos\bin\Debug\net6.0\Foresi.Entidades.dll
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Datos\bin\Debug\net6.0\Foresi.Entidades.pdb
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Datos\obj\Debug\net6.0\Foresi.Datos.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Datos\obj\Debug\net6.0\Foresi.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Datos\obj\Debug\net6.0\Foresi.Datos.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Datos\obj\Debug\net6.0\Foresi.Datos.AssemblyInfo.cs
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Datos\obj\Debug\net6.0\Foresi.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Datos\obj\Debug\net6.0\Foresi.Datos.csproj.CopyComplete
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Datos\obj\Debug\net6.0\Foresi.Datos.dll
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Datos\obj\Debug\net6.0\refint\Foresi.Datos.dll
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Datos\obj\Debug\net6.0\Foresi.Datos.pdb
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Datos\obj\Debug\net6.0\ref\Foresi.Datos.dll

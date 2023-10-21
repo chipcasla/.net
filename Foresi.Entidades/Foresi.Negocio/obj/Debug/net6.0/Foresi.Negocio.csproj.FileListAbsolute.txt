@@ -1,0 +1,17 @@
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Negocio\bin\Debug\net6.0\Foresi.Negocio.deps.json
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Negocio\bin\Debug\net6.0\Foresi.Negocio.dll
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Negocio\bin\Debug\net6.0\Foresi.Negocio.pdb
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Negocio\bin\Debug\net6.0\Foresi.Datos.dll
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Negocio\bin\Debug\net6.0\Foresi.Entidades.dll
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Negocio\bin\Debug\net6.0\Foresi.Datos.pdb
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Negocio\bin\Debug\net6.0\Foresi.Entidades.pdb
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Negocio\obj\Debug\net6.0\Foresi.Negocio.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Negocio\obj\Debug\net6.0\Foresi.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Negocio\obj\Debug\net6.0\Foresi.Negocio.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Negocio\obj\Debug\net6.0\Foresi.Negocio.AssemblyInfo.cs
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Negocio\obj\Debug\net6.0\Foresi.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Negocio\obj\Debug\net6.0\Foresi.Negocio.csproj.CopyComplete
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Negocio\obj\Debug\net6.0\Foresi.Negocio.dll
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Negocio\obj\Debug\net6.0\refint\Foresi.Negocio.dll
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Negocio\obj\Debug\net6.0\Foresi.Negocio.pdb
+C:\Users\Windows\source\repos\Foresi.Entidades\Foresi.Negocio\obj\Debug\net6.0\ref\Foresi.Negocio.dll
